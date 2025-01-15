@@ -1,11 +1,9 @@
-import Box from "./components/box.js";
-
 function App() {
   return (
     <div>
-      <Box />
+      <h1>TESTANDO FONTE</h1>
     </div>
   );
 }
 
-export default App;
+export default App
