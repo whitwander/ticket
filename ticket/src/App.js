@@ -1,7 +1,9 @@
+import Patterns from "./Components/Patterns.js/index.js";
+
 function App() {
   return (
-    <div>
-      <h1>TESTANDO FONTE</h1>
+    <div className="main">
+      <Patterns />
     </div>
   );
 }
