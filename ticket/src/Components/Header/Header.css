@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+    margin: 0;
+    gap: 0px;
+}
+
+.logo {
+    width: 200px;
+    margin-top: 40px;
+}
+
+.title {
+    margin-top: 50px;
+    font-size: 50px;
+    text-align: center; 
+}
+
+.text {
+    color: rgb(187, 182, 182);
+    font-size: 20px;
+    margin-top: -10px;
+}

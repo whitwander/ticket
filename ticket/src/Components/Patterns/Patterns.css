@@ -7,30 +7,31 @@
 }
 
 .circle1 {
-    position: absolute;
+    position: fixed;
     top: 550px;
     left: 1300px;
 }
 
 .circle2 {
-    position: absolute;
+    position: fixed;
     top: -80px;
     left: 40px;
 }
 
 .lines {
-    position: absolute;
+    position: fixed;
+    top: 0px;
     width: 100%;
 }
 
 .line-top {
-    position: absolute;
+    position: fixed;
     top: 100px;
     right: 0px;
 }
 
 .line-bottom {
-    position: absolute;
+    position: fixed;
     bottom: 0px;
     width: auto;
     left: 0px;
